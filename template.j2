@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<!-- version {{ exportdate }} -->
+<Document>
+	<name>Fastned</name>
+{% for station in stations %}
+	<Placemark>
+		<name>{{ station['title'] }}</name>
+		<address>{{ station['address'] }}, {{ station['city'] }}, {{ station['country'] }}</address>
+		<description>{{ ', '.join(re.sub('<[^<]+?>', '', station['extra_info']).split('\n')[:-1]) }}</description>
+		<Point>
+			<coordinates>{{ station['lng'] }},{{ station['lat'] }},0</coordinates>
+		</Point>
+	</Placemark>
+{% endfor %}
+</Document>
+</kml>
