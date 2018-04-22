@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-<!-- version 2018-04-20 -->
+<!-- version 2018-04-22 -->
 <Document>
 	<name>Fastned</name>
 
@@ -365,15 +365,6 @@
 	</Placemark>
 
 	<Placemark>
-		<name>Fastned De Geffense Barriere</name>
-		<address>A59 Oss - Den Bosch HMP 151, Geffen, NL</address>
-		<description>2x CCS 50 kW, 2x CHAdeMO 50 kW, 2x AC 43 kW, Tesla adapter</description>
-		<Point>
-			<coordinates>5.4927203,51.7345143,0</coordinates>
-		</Point>
-	</Placemark>
-
-	<Placemark>
 		<name>Fastned Ooiendonk</name>
 		<address>A2 Eindhoven - Den Bosch HMP 135, Liempde, NL</address>
 		<description>2x CCS 50 kW, 2x CHAdeMO 50 kW, 2x AC 43 kW, Tesla adapter</description>
@@ -510,7 +501,7 @@
 
 	<Placemark>
 		<name>Fastned ten Bosch</name>
-		<address>Leidsestraatweg 1, Den Haag, </address>
+		<address>Leidsestraatweg 1, Den Haag</address>
 		<description>, 2x CCS 50kW, 2x CHAdeMO 50kW, 2x AC 43kW, 2x Tesla adapter, , , Restaurant Chalet ten Bosch, </description>
 		<Point>
 			<coordinates>4.34659425142,52.098773913,0</coordinates>
@@ -573,7 +564,7 @@
 
 	<Placemark>
 		<name>Fastned Jutphaas</name>
-		<address>A2 Den Bosch - Utrecht HMP 69, Nieuwegein, </address>
+		<address>A2 Den Bosch - Utrecht HMP 69, Nieuwegein</address>
 		<description>1x CCS 175 kW, 1x CCS 50 kW, 2x CHAdeMO 50 kW, 1x AC 43 kW, Tesla adapter</description>
 		<Point>
 			<coordinates>5.06826939794,52.0177173727,0</coordinates>
@@ -582,7 +573,7 @@
 
 	<Placemark>
 		<name>Fastned Portland</name>
-		<address>A15 Europoort - Ridderkerk HMP 55, Rhoon, </address>
+		<address>A15 Europoort - Ridderkerk HMP 55, Rhoon</address>
 		<description>1x CCS 175 kW, 1x CCS 50 kW, 2x CHAdeMO 50 kW, 1x AC 43 kW, Tesla adapter</description>
 		<Point>
 			<coordinates>4.4598011,51.8625754,0</coordinates>
@@ -591,7 +582,7 @@
 
 	<Placemark>
 		<name>Fastned De Watering</name>
-		<address>A8 Zaandam - Amsterdam HMP 4, Zaandam, </address>
+		<address>A8 Zaandam - Amsterdam HMP 4, Zaandam</address>
 		<description>2x CCS 175 kW Let op: e-Golf kan hier tijdelijk niet laden, 2x CHAdeMO 50 kW, Tesla adapter, Let op: geen AC aanwezig!</description>
 		<Point>
 			<coordinates>4.8546891,52.4421199,0</coordinates>
@@ -613,6 +604,15 @@
 		<description>2x CCS 50 kW, 2x CHAdeMO 50 kW, 2x AC 43 kW, Tesla adapter</description>
 		<Point>
 			<coordinates>4.18244324625,51.8702886074,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Fastned De Vonken</name>
+		<address>A7 Drachten - Heereveen HMP 154, Terwispel, NL</address>
+		<description>2x CCS 50 kW, 2x CHAdeMO 50 kW, 2x AC 43 kW, Tesla adapter</description>
+		<Point>
+			<coordinates>6.02111558906,53.0323977841,0</coordinates>
 		</Point>
 	</Placemark>
 

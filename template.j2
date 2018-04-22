@@ -6,7 +6,7 @@
 {% for station in stations %}
 	<Placemark>
 		<name>{{ station['title'] }}</name>
-		<address>{{ station['address'] }}, {{ station['city'] }}, {{ station['country'] }}</address>
+		<address>{{ station['address'] }}, {{ station['city'] }}{% if station['country'] %}, {{ station['country'] }}{% endif %}</address>
 		<description>{{ ', '.join(re.sub('<[^<]+?>', '', station['extra_info']).split('\n')[:-1]) }}</description>
 		<Point>
 			<coordinates>{{ station['lng'] }},{{ station['lat'] }},0</coordinates>
