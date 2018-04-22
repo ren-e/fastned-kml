@@ -5,11 +5,11 @@
 	<name>Fastned</name>
 {% for station in stations %}
 	<Placemark>
-		<name>{{ station['title'] }}</name>
-		<address>{{ ', '.join(filter(None, [ station['address'], station['city'], station['country']])) }}</address>
-		<description>{{ ', '.join(filter(None, re.sub('<[^<]+?>', '', station['extra_info']).split('\n')[:-1])) }}</description>
+		<name>{{ sanitize(station['title']) }}</name>
+		<address>{{ sanitize(', '.join(filter(None, [ station['address'], station['city'], station['country']]))) }}</address>
+		<description>{{ sanitize(', '.join(filter(None, re.sub('<[^<]+?>', '', station['extra_info']).split('\n')[:-1]))) }}</description>
 		<Point>
-			<coordinates>{{ station['lng'] }},{{ station['lat'] }},0</coordinates>
+			<coordinates>{{ sanitize(station['lng']) }},{{ sanitize(station['lat']) }},0</coordinates>
 		</Point>
 	</Placemark>
 {% endfor %}

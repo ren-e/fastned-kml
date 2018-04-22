@@ -7,8 +7,15 @@ import json
 import re
 from datetime import datetime
 from jinja2 import Template
+from xml.sax.saxutils import escape
 
 url = 'https://route.fastned.nl/stations.js'
+
+
+def sanitize(obj):
+  if isinstance(obj, basestring):
+     return escape(obj)
+  return obj
 
 
 def fastned_js2kml():
@@ -27,6 +34,7 @@ def fastned_js2kml():
     f.write(t.render(exportdate=exportdate,
                      re=re,
                      filter=filter,
+                     sanitize=sanitize,
                      stations=stations,
                     ).encode('utf8'))
 
