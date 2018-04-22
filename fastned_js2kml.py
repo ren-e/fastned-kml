@@ -24,7 +24,11 @@ def fastned_js2kml():
 
   filename = 'fastned-{}.kml'.format(exportdate)
   with open(filename, 'w') as f:
-    f.write(t.render(exportdate=exportdate, re=re, stations=stations).encode('utf8'))
+    f.write(t.render(exportdate=exportdate,
+                     re=re,
+                     filter=filter,
+                     stations=stations,
+                    ).encode('utf8'))
 
 
 if __name__ == '__main__':

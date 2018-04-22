@@ -70,7 +70,7 @@
 	<Placemark>
 		<name>Fastned Bornheim</name>
 		<address>A28 Harderwijk – Zwolle HMP 80, Wezep, NL</address>
-		<description>, 2x CCS 50 kW, 3x CHAdeMO 50 kW, 2x AC 43 kW, 1x AC 22 kW, Tesla adapter, </description>
+		<description>2x CCS 50 kW, 3x CHAdeMO 50 kW, 2x AC 43 kW, 1x AC 22 kW, Tesla adapter</description>
 		<Point>
 			<coordinates>5.9778674,52.4516038,0</coordinates>
 		</Point>
@@ -133,7 +133,7 @@
 	<Placemark>
 		<name>Fastned Elsgeest</name>
 		<address>A44 Den Haag – Amsterdam HMP 14, Oegstgeest, NL</address>
-		<description>, 3x CCS 50 kW, 3x CHAdeMO 50 kW, 2x AC 43 kW, 2x Tesla adapter, , , Wild Beans Café, </description>
+		<description>3x CCS 50 kW, 3x CHAdeMO 50 kW, 2x AC 43 kW, 2x Tesla adapter, Wild Beans Café</description>
 		<Point>
 			<coordinates>4.471513,52.198171,0</coordinates>
 		</Point>
@@ -169,7 +169,7 @@
 	<Placemark>
 		<name>Fastned Knuvelkes</name>
 		<address>A2 Maastricht – Luik HMP 268, Eijsden, NL</address>
-		<description>, 2x CCS 50 kW, 2x CHAdeMO 50 kW, 2x AC 43 kW, Tesla adapter, </description>
+		<description>2x CCS 50 kW, 2x CHAdeMO 50 kW, 2x AC 43 kW, Tesla adapter</description>
 		<Point>
 			<coordinates>5.727805,50.7860425,0</coordinates>
 		</Point>
@@ -250,7 +250,7 @@
 	<Placemark>
 		<name>Fastned De Kroon</name>
 		<address>A27 Utrecht – Vianen HMP 66, Nieuwegein, NL</address>
-		<description>, 3x CCS 50 kW, 3x CHAdeMO 50 kW, 2x AC 43 kW, 2x Tesla adapter, , , Burger King, La Place, Albert Heijn to go, </description>
+		<description>3x CCS 50 kW, 3x CHAdeMO 50 kW, 2x AC 43 kW, 2x Tesla adapter, Burger King, La Place, Albert Heijn to go</description>
 		<Point>
 			<coordinates>5.120602,52.015954,0</coordinates>
 		</Point>
@@ -286,7 +286,7 @@
 	<Placemark>
 		<name>Fastned De Somp</name>
 		<address>A50 Arnhem - Zwolle HMP 202, Klarenbeek, NL</address>
-		<description>, 2x CCS 50kW, 2x CHAdeMO 50kW, 2x AC 43kW, Tesla adapter, , , La Place, </description>
+		<description>2x CCS 50kW, 2x CHAdeMO 50kW, 2x AC 43kW, Tesla adapter, La Place</description>
 		<Point>
 			<coordinates>6.025932,52.16615,0</coordinates>
 		</Point>
@@ -295,7 +295,7 @@
 	<Placemark>
 		<name>Fastned De Brink</name>
 		<address>A50 Zwolle - Arnhem HMP 202, Klarenbeek, NL</address>
-		<description>, 2x CCS 50kW, 2x CHAdeMO 50kW, 2x AC 43kW, Tesla adapter, </description>
+		<description>2x CCS 50kW, 2x CHAdeMO 50kW, 2x AC 43kW, Tesla adapter</description>
 		<Point>
 			<coordinates>6.026082,52.170914,0</coordinates>
 		</Point>
@@ -340,7 +340,7 @@
 	<Placemark>
 		<name>Fastned Bloemheuvel</name>
 		<address>A12 Utrecht - Veenendaal HMP 85, Woudenberg, NL</address>
-		<description>, 2x CCS 50kW, 2x CHAdeMO 50kW, 2x AC 43kW, Tesla adapter, , , La Place, </description>
+		<description>2x CCS 50kW, 2x CHAdeMO 50kW, 2x AC 43kW, Tesla adapter, La Place</description>
 		<Point>
 			<coordinates>5.4615606,52.0499118,0</coordinates>
 		</Point>
@@ -457,7 +457,7 @@
 	<Placemark>
 		<name>Fastned De Vink</name>
 		<address>A20 Rotterdam - Gouda HMP 40, Nieuwerkerk a/d IJssel, NL</address>
-		<description>, 2x CCS 50 kW, 2x CHAdeMO 50 kW, 2x AC 43 kW, Tesla adapter, , , Albert Heijn to go, </description>
+		<description>2x CCS 50 kW, 2x CHAdeMO 50 kW, 2x AC 43 kW, Tesla adapter, Albert Heijn to go</description>
 		<Point>
 			<coordinates>4.5886317,51.9660154,0</coordinates>
 		</Point>
@@ -475,7 +475,7 @@
 	<Placemark>
 		<name>Fastned Varakker</name>
 		<address>A15 Nijmegen - Tiel HMP 143, Opheusden, NL</address>
-		<description>, 2x CCS 50kW, 2x CHAdeMO 50kW, 2x AC 43kW, Tesla adapter, , , Restaurant Goudreinet Kesteren, </description>
+		<description>2x CCS 50kW, 2x CHAdeMO 50kW, 2x AC 43kW, Tesla adapter, Restaurant Goudreinet Kesteren</description>
 		<Point>
 			<coordinates>5.605421,51.923987,0</coordinates>
 		</Point>
@@ -502,7 +502,7 @@
 	<Placemark>
 		<name>Fastned ten Bosch</name>
 		<address>Leidsestraatweg 1, Den Haag</address>
-		<description>, 2x CCS 50kW, 2x CHAdeMO 50kW, 2x AC 43kW, 2x Tesla adapter, , , Restaurant Chalet ten Bosch, </description>
+		<description>2x CCS 50kW, 2x CHAdeMO 50kW, 2x AC 43kW, 2x Tesla adapter, Restaurant Chalet ten Bosch</description>
 		<Point>
 			<coordinates>4.34659425142,52.098773913,0</coordinates>
 		</Point>
@@ -511,7 +511,7 @@
 	<Placemark>
 		<name>Fastned Den Ruygen Hoek-West</name>
 		<address>A4 Amsterdam - Leiden HMP 14, Hoofddorp, NL</address>
-		<description>, 2x CCS 175 kW, , , Burger King, , , 2x CCS 50 kW, , , FEBO, , , 4x CHAdeMO 50 kW, , , KFC, , , 2x AC 43 kW, , , La Place, , , 2x Tesla adapter, , , Van der Valk, , ,  Délifrance, , , Suit Supply, , ,  Resto Truck, , , Jack's Casino, , ,        , ,  </description>
+		<description>2x CCS 175 kW, Burger King, 2x CCS 50 kW, FEBO, 4x CHAdeMO 50 kW, KFC, 2x AC 43 kW, La Place, 2x Tesla adapter, Van der Valk,  Délifrance, Suit Supply,  Resto Truck, Jack's Casino,        ,  </description>
 		<Point>
 			<coordinates>4.686558,52.261547,0</coordinates>
 		</Point>
@@ -538,7 +538,7 @@
 	<Placemark>
 		<name>Fastned Aalscholver</name>
 		<address>A6 Lelystad - Almere HMP 68, Lelystad, NL</address>
-		<description>, 2x CCS 50kW, 2x CHAdeMO 50kW, 2x AC 43kW, Tesla adapter, , , Hajé Restaurant, Hajé Waterlodge hotel, </description>
+		<description>2x CCS 50kW, 2x CHAdeMO 50kW, 2x AC 43kW, Tesla adapter, Hajé Restaurant, Hajé Waterlodge hotel</description>
 		<Point>
 			<coordinates>5.424837,52.435955,0</coordinates>
 		</Point>
@@ -547,7 +547,7 @@
 	<Placemark>
 		<name>Fastned Lepelaar</name>
 		<address>A6 Almere - Lelystad HMP 67, Lelystad, NL</address>
-		<description>, 2x CCS 50kW, 2x CHAdeMO 50kW, 2x AC 43kW, Tesla adapter, , , Hajé Restaurant, Hajé Waterlodge hotel, </description>
+		<description>2x CCS 50kW, 2x CHAdeMO 50kW, 2x AC 43kW, Tesla adapter, Hajé Restaurant, Hajé Waterlodge hotel</description>
 		<Point>
 			<coordinates>5.422771,52.432763,0</coordinates>
 		</Point>
@@ -556,7 +556,7 @@
 	<Placemark>
 		<name>Fastned Fustweg</name>
 		<address>Fustweg 1, Haarlem, NL</address>
-		<description>, 2x CCS 50kW, 2x CHAdeMO 50kW, 2x AC 43kW, Tesla adapter, , , Lunchroom Joosies, FEBO, </description>
+		<description>2x CCS 50kW, 2x CHAdeMO 50kW, 2x AC 43kW, Tesla adapter, Lunchroom Joosies, FEBO</description>
 		<Point>
 			<coordinates>4.661746,52.385146,0</coordinates>
 		</Point>
