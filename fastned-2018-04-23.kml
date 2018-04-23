@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-<!-- version 2018-04-22 -->
+<!-- version 2018-04-23 -->
 <Document>
 	<name>Fastned</name>
 
@@ -365,6 +365,15 @@
 	</Placemark>
 
 	<Placemark>
+		<name>Fastned De Geffense Barriere</name>
+		<address>A59 Oss - Den Bosch HMP 151, Geffen, NL</address>
+		<description>2x CCS 50 kW, 2x CHAdeMO 50 kW, 2x AC 43 kW, Tesla adapter</description>
+		<Point>
+			<coordinates>5.4927203,51.7345143,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
 		<name>Fastned Ooiendonk</name>
 		<address>A2 Eindhoven - Den Bosch HMP 135, Liempde, NL</address>
 		<description>2x CCS 50 kW, 2x CHAdeMO 50 kW, 2x AC 43 kW, Tesla adapter</description>
@@ -567,7 +576,7 @@
 		<address>A2 Den Bosch - Utrecht HMP 69, Nieuwegein</address>
 		<description>1x CCS 175 kW, 1x CCS 50 kW, 2x CHAdeMO 50 kW, 1x AC 43 kW, Tesla adapter</description>
 		<Point>
-			<coordinates>5.06826939794,52.0177173727,0</coordinates>
+			<coordinates>5.06889703485,52.0174483112,0</coordinates>
 		</Point>
 	</Placemark>
 
