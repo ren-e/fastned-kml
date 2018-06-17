@@ -20,10 +20,9 @@ def sanitize(obj):
 
 def fastned_js2kml():
   r = requests.get(url)
-  js = "["
-  js += u'\n'.join(r.text.split('\n')[3:-2])
-  js += "]"
-  stations = json.loads(js)
+  result = re.search('window\["fastnav"\]\["stations"\]=(.*)\;\}\)\(\)\;$', r.text)
+  rawjson = result.group(1)
+  stations = json.loads(rawjson)
   exportdate = str(datetime.now().date())
 
   with open('template.j2', 'r') as f:

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-<!-- version 2018-04-23 -->
+<!-- version 2018-06-17 -->
 <Document>
 	<name>Fastned</name>
 
@@ -61,7 +61,7 @@
 	<Placemark>
 		<name>Fastned Panjerd </name>
 		<address>A28 Hoogeveen – Meppel HMP 127, Veeningen, NL</address>
-		<description>2x CCS 50 kW, 3x CHAdeMO 50 kW, 2x AC 43 kW, 1x AC 22 kW, Tesla adapter</description>
+		<description>2x CCS 50 kW, 3x CHAdeMO 50 kW, 2x AC 43 kW, 1x AC 22 kW, Let op: Tijdelijk geen Tesla adapter</description>
 		<Point>
 			<coordinates>6.3692937,52.6827481,0</coordinates>
 		</Point>
@@ -324,7 +324,7 @@
 		<address>A27 Breda - Gorinchem HMP 25, Hank, NL</address>
 		<description>2x CCS 50 kW, 2x CHAdeMO 50 kW, 2x AC 43 kW, Tesla adapter</description>
 		<Point>
-			<coordinates>4.92177,51.746546,0</coordinates>
+			<coordinates>4.92178072884,51.7469412369,0</coordinates>
 		</Point>
 	</Placemark>
 
@@ -441,7 +441,7 @@
 		<address>A58 Roosendaal - Middelburg HMP 157, s-Heer Arendskerke, NL</address>
 		<description>2x CCS 50 kW, 2x CHAdeMO 50 kW, 2x AC 43 kW, Tesla adapter</description>
 		<Point>
-			<coordinates>3.771987,51.498724,0</coordinates>
+			<coordinates>3.77197358895,51.4987089721,0</coordinates>
 		</Point>
 	</Placemark>
 
@@ -520,7 +520,7 @@
 	<Placemark>
 		<name>Fastned Den Ruygen Hoek-West</name>
 		<address>A4 Amsterdam - Leiden HMP 14, Hoofddorp, NL</address>
-		<description>2x CCS 175 kW, Burger King, 2x CCS 50 kW, FEBO, 4x CHAdeMO 50 kW, KFC, 2x AC 43 kW, La Place, 2x Tesla adapter, Van der Valk,  Délifrance, Suit Supply,  Resto Truck, Jack's Casino,        ,  </description>
+		<description>2x CCS 175 kW, Burger King, 4x CCS 50 kW, FEBO, 6x CHAdeMO 50 kW, KFC, 2x AC 43 kW, La Place, 2x Tesla adapter, Van der Valk,  Délifrance, Suit Supply,  Resto Truck, Jack's Casino,        ,  </description>
 		<Point>
 			<coordinates>4.686558,52.261547,0</coordinates>
 		</Point>
@@ -592,7 +592,7 @@
 	<Placemark>
 		<name>Fastned De Watering</name>
 		<address>A8 Zaandam - Amsterdam HMP 4, Zaandam</address>
-		<description>2x CCS 175 kW Let op: e-Golf kan hier tijdelijk niet laden, 2x CHAdeMO 50 kW, Tesla adapter, Let op: geen AC aanwezig!</description>
+		<description>2x CCS 175 kW, 1x CCS 50 kW, 3x CHAdeMO 50 kW, 1x AC 43 kW, Tesla adapter</description>
 		<Point>
 			<coordinates>4.8546891,52.4421199,0</coordinates>
 		</Point>
@@ -603,7 +603,7 @@
 		<address>N57 Spijkenisse - Middelburg HMP 7, Vierpolders, NL</address>
 		<description>2x CCS 50 kW, 2x CHAdeMO 50 kW, 2x AC 43 kW, Tesla adapter</description>
 		<Point>
-			<coordinates>4.18059517604,51.8708156299,0</coordinates>
+			<coordinates>4.18057103616,51.8705523101,0</coordinates>
 		</Point>
 	</Placemark>
 
@@ -612,7 +612,7 @@
 		<address>N57 Middelburg -Spijkenisse HMP 7, Vierpolders, NL</address>
 		<description>2x CCS 50 kW, 2x CHAdeMO 50 kW, 2x AC 43 kW, Tesla adapter</description>
 		<Point>
-			<coordinates>4.18244324625,51.8702886074,0</coordinates>
+			<coordinates>4.18205834925,51.8701263079,0</coordinates>
 		</Point>
 	</Placemark>
 
@@ -622,6 +622,51 @@
 		<description>2x CCS 50 kW, 2x CHAdeMO 50 kW, 2x AC 43 kW, Tesla adapter</description>
 		<Point>
 			<coordinates>6.02111558906,53.0323977841,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Fastned Meedenertol</name>
+		<address>A7 Groningen - Bad Nieuweschans HMP 226, Scheemda, NL</address>
+		<description>2x CCS 50 kW, 2x CHAdeMO 50 kW, 2x AC 43 kW, Tesla adapter</description>
+		<Point>
+			<coordinates>6.93355902872,53.1808452904,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Fastned Roode Til</name>
+		<address>A7 Bad Nieuweschans - Groningen HMP 227, Scheemda, NL</address>
+		<description>2x CCS 50 kW, 2x CHAdeMO 50 kW, 2x AC 43 kW, Tesla adapter</description>
+		<Point>
+			<coordinates>6.93160739613,53.1826085154,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Fastned Den Hoek</name>
+		<address>A16 Dordrecht - Breda HMP 51, Zevenbergschen Hoek</address>
+		<description>1x CCS 175 kW, 1x CCS 50 kW, 2x CHAdeMO 50 kW, 1x AC 43 kW, Tesla adapter</description>
+		<Point>
+			<coordinates>4.67812186246,51.6625727532,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Fastned Hoge Kwel</name>
+		<address>A7 Hoorn - Den Oever HMP 55, Wieringerwerf</address>
+		<description>1x CCS 175 kW, 1x CCS 50 kW, 2x CHAdeMO 50 kW, 1x AC 43 kW, Tesla adapter</description>
+		<Point>
+			<coordinates>5.02159539825,52.857313968,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Fastned Limburg Süd</name>
+		<address>Brüsseler Strasse 5A, Limburg an der Lahn, DE</address>
+		<description>2x CCS 175 kW, 1x CCS 50 kW, 3x CHAdeMO 50 kW, 1x AC 43 kW</description>
+		<Point>
+			<coordinates>8.09412393692,50.3803172272,0</coordinates>
 		</Point>
 	</Placemark>
 
