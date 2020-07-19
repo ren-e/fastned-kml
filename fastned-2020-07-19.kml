@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<!-- version 2020-07-19 -->
+<Document>
+	<name>Fastned</name>
+
+	<Placemark>
+		<name>Palmpol</name>
+		<address>Palmpol A1, Terschuur, NLD</address>
+		<description>3&amp;times; CCS 50 kW3&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kW Tesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.536471,52.163008,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Geulenkamp</name>
+		<address>Geulenkamp A18, Didam, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW1&amp;times; AC 43 kW1&amp;times; AC 22 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>6.181513,51.939705,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Hondsiep</name>
+		<address>Hondsiep A73, Haps, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW1&amp;times; AC 43 kW1&amp;times; AC 22 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.893613,51.68353,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Lokkant</name>
+		<address>Lokkant A73, Haps, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW1&amp;times; AC 43 kW1&amp;times; AC 22 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.89105,51.68432,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Het Veen</name>
+		<address>Het Veen A50, Heerde, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW1&amp;times; AC 43 kW1&amp;times; AC 22 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>6.013231,52.395852,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Lageveen</name>
+		<address>Lageveen A28, Veeningen, NLD</address>
+		<description>1&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW1&amp;times; AC 43 kW1&amp;times; AC 22 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>6.35893,52.679202,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Panjerd</name>
+		<address>Panjerd A28, Veeningen, NLD</address>
+		<description>2&amp;times; CCS 50 kW3&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kW1&amp;times; AC 22 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>6.36931,52.682708,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Bornheim</name>
+		<address>Bornheim A28, Wezep, NLD</address>
+		<description>2&amp;times; CCS 50 kW3&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kW1&amp;times; AC 22 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.977937,52.451596,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Vundelaar</name>
+		<address>Vundelaar A1, Wilp, NLD</address>
+		<description>2&amp;times; CCS 50 kW3&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kW1&amp;times; AC 22 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>6.092943,52.209103,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Mienscheer</name>
+		<address>Mienscheer A7, Nuis, NLD</address>
+		<description>1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>6.293619,53.161609,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Witte Molen</name>
+		<address>Witte Molen A28, Haren, NLD</address>
+		<description>1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>6.60458,53.14804,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Broerdijk</name>
+		<address>Broerdijk A7, Benningbroek, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.02891,52.71172,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>De Zuidpunt</name>
+		<address>De Zuidpunt A16, Dordrecht, NLD</address>
+		<description>1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet, Height 2,75 m</description>
+		<Point>
+			<coordinates>4.6322,51.73465,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Knorrestein</name>
+		<address>Knorrestein A12, Zoetermeer, NLD</address>
+		<description>3&amp;times; CCS 50 kW3&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>4.436339,52.051738,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Elsgeest</name>
+		<address>Elsgeest A44, Oegstgeest, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Wild Beans Café</description>
+		<Point>
+			<coordinates>4.47152,52.19818,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Swentibold</name>
+		<address>Swentibold A2, Geleen, NLD</address>
+		<description>4&amp;times; CCS 300 kW1&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kW, Facilities: Tankshop, Toilet, Height 2,75 m,  </description>
+		<Point>
+			<coordinates>5.80057,51.01059,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Patiel</name>
+		<address>Patiel A2, Eijsden, NLD</address>
+		<description>1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.729564,50.776895,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Buttervliet</name>
+		<address>Buttervliet A29, Numansdorp, NLD</address>
+		<description> , 2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet, Height 2,75 m, Temporarily closed because of highway maintenance:July 28, 22.00h - July 29, 05:00hNovember 06, 22.00h - November 09, 05:00h,  </description>
+		<Point>
+			<coordinates>4.410235,51.737028,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Knuvelkes</name>
+		<address>Knuvelkes A2, Eijsden, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.72777,50.78592,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Velder</name>
+		<address>Velder A2, Liempde, NLD</address>
+		<description>4&amp;times; CCS 300 kW2&amp;times; CCS 50 kW3&amp;times; CHAdeMO 50 kW1&amp;times; AC 43 kW, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.3568,51.559136,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Het Veelsveld</name>
+		<address>Het Veelsveld A1, Deurningen, NLD</address>
+		<description>1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>6.85775,52.285233,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Ellerbrug</name>
+		<address>Ellerbrug A2, Ell, NLD</address>
+		<description>3&amp;times; CCS 50 kW3&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.808971,51.220733,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Kruisoord</name>
+		<address>Kruisoord A7, Noordbeemster, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>4.978075,52.581458,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>De Weeren</name>
+		<address>De Weeren A32, Oldeholtwolde, NLD</address>
+		<description>1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.981919,52.915677,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Het Lonnekermeer</name>
+		<address>Het Lonnekermeer A1, Deurningen, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>6.852773,52.281342,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Mandelan</name>
+		<address>Mandelan A32, Wirdum, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.804806,53.129485,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Eemakker</name>
+		<address>Eemakker A27, Eemnes, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW1&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet, Height 2,75 m,  </description>
+		<Point>
+			<coordinates>5.25598,52.26434,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>De Kroon</name>
+		<address>De Kroon A27, Nieuwegein, NLD</address>
+		<description>4&amp;times; CCS 150 kW2&amp;times; CHAdeMO 50 kW, Facilities: Burger King, La Place, Albert Heijn to go, Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.120814,52.016089,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>De Poel</name>
+		<address>De Poel A30, Ede, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.612174,52.063826,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>De Veenen</name>
+		<address>De Veenen A30, Ede, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.609039,52.064042,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>De Slenk</name>
+		<address>De Slenk A50, Arnhem, NLD</address>
+		<description>1&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.812322,52.007451,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>De Somp</name>
+		<address>De Somp A50, Klarenbeek, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW1&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: La Place, Tankshop, Toilet</description>
+		<Point>
+			<coordinates>6.026113,52.166212,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>De Brink</name>
+		<address>De Brink A50, Klarenbeek, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>6.025901,52.170759,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>De Horn</name>
+		<address>De Horn A7, Abbekerk, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Toilet, Height 2,75 m</description>
+		<Point>
+			<coordinates>5.028917,52.739217,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Alblasserdam</name>
+		<address>Alblasserdam A15, Alblasserdam, NLD</address>
+		<description>1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>4.679798,51.850747,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>De Keizer</name>
+		<address>De Keizer A27, Hank, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>4.921949,51.746879,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Bijleveld</name>
+		<address>Bijleveld A12, Harmelen, NLD</address>
+		<description>3&amp;times; CCS 50 kW3&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kW2x Tesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>4.98095,52.079408,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Bloemheuvel</name>
+		<address>Bloemheuvel A12, Woudenberg, NLD</address>
+		<description>1&amp;times; CCS 175 kW2&amp;times; CCS 50 kW3&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: La Place, Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.461548,52.04989,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>De Mieden</name>
+		<address>De Mieden A31, Menaam, NLD</address>
+		<description>1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.68262,53.20374,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Middelsloot</name>
+		<address>Middelsloot A7, Middenbeemster, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet, Height 2,75 m</description>
+		<Point>
+			<coordinates>4.95727,52.54597,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>De Geffense Barriere</name>
+		<address>De Geffense Barriere A59, Geffen, NLD</address>
+		<description>3&amp;times; CCS 50 kW3&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.49276,51.73454,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Ooiendonk</name>
+		<address>Ooiendonk A2, Liempde, NLD</address>
+		<description>4&amp;times; CCS 300 kW2&amp;times; CCS 50 kW3&amp;times; CHAdeMO 50 kW2&amp;times; AC 38 kW, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.36184,51.55638,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Den Bout</name>
+		<address>Den Bout A15, Hardinxveld ‚Äì Giessendam, NLD</address>
+		<description>1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>4.88122,51.83224,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>De Hucht</name>
+		<address>De Hucht A1, Ughelen, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.89069,52.1858,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Blommendaal</name>
+		<address>Blommendaal A27, Meerkerk, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet, Height 2,75 m</description>
+		<Point>
+			<coordinates>4.98484,51.9119,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Bospoort</name>
+		<address>Bospoort A4, Leiderdorp, NLD</address>
+		<description>1&amp;times; CCS 175 kW2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>4.55405,52.16278,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>De Andel</name>
+		<address>De Andel A12, Reeuwijk, NLD</address>
+		<description>1&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet, Height 2,75 m,  </description>
+		<Point>
+			<coordinates>4.70648,52.03999,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Akermaat</name>
+		<address>Akermaat A9, Heemskerk, NLD</address>
+		<description>1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet, Height 2,75 m</description>
+		<Point>
+			<coordinates>4.698793,52.498623,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Selnisse</name>
+		<address>Selnisse A58, s-Heer Arendskerke, NLD</address>
+		<description>2&amp;times; CCS 150 kW0&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW0&amp;times; AC 38 kW, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>3.77227,51.49875,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Vliedberg</name>
+		<address>Vliedberg A58, s-Heer Arendskerke, NLD</address>
+		<description>4&amp;times; CCS 150 kW2&amp;times; CHAdeMO 50 kW, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>3.85084,51.48431,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Laan van Meerdervoort</name>
+		<address>Laan van Meerdervoort, Den Haag, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter</description>
+		<Point>
+			<coordinates>4.2277,52.061311,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>De Vink</name>
+		<address>De Vink A20, Nieuwerkerk aan den IJssel, NLD</address>
+		<description>0&amp;times; CCS 175 kW0&amp;times; CCS 50 kW0&amp;times; CHAdeMO 50 kW0&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Albert Heijn to go, Tankshop, Toilet</description>
+		<Point>
+			<coordinates>4.58875,51.966003,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Maatveld</name>
+		<address>Maatveld A20, Nieuwerkerk a/d IJssel, NLD</address>
+		<description>4&amp;times; CCS 300 kW1&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kW, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>4.589139,51.967919,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Varakker</name>
+		<address>Varakker A15, Opheusden, NLD</address>
+		<description>1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Restaurant Goudreinet Kesteren, Tankshop, Toilet, Height 2,75 m, Temporarily closed because of highway maintenance:August 17, 23.00h - August 18 05:00h</description>
+		<Point>
+			<coordinates>5.605272,51.923969,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Overbroek</name>
+		<address>Overbroek A15, Opheusden, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 38 kWTesla CHAdeMO adapter</description>
+		<Point>
+			<coordinates>5.603294,51.921694,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Labbegat</name>
+		<address>Labbegat A59, Sprang-Capelle, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.013597,51.693917,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>ten Bosch</name>
+		<address>Leidsestraatweg, Den Haag, NLD</address>
+		<description>Leidsestraatweg 45, 1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Restaurant Chalet ten Bosch</description>
+		<Point>
+			<coordinates>4.346519,52.098781,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Den Ruygen Hoek-West</name>
+		<address>Den Ruygen Hoek-West A4, Rijsenhout, NLD</address>
+		<description>1&amp;times; CCS 175 kW5&amp;times; CCS 50 kW5&amp;times; CHAdeMO 50 kW2&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Délifrance, Resto Truck, Burger King, La Place, Van der Valk, Suit Supply, Jack's Casino, FEBO, KFC, Tankshop, Toilet, Height 2,75 m,  </description>
+		<Point>
+			<coordinates>4.686326,52.261416,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Steelhoven</name>
+		<address>Steelhoven A59, Made, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>4.827192,51.67654,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Streepland</name>
+		<address>Streepland A16, Zevenbergschen Hoek, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>4.657646,51.690884,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Aalscholver</name>
+		<address>Aalscholver A6, Lelystad, NLD</address>
+		<description>2&amp;times; CCS 175 kW1&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Hajé Restaurant, Hajé Waterlodge Hotel, Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.424898,52.436005,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Lepelaar</name>
+		<address>Lepelaar A6, Lelystad, NLD</address>
+		<description>2&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Hajé Restaurant, Hajé Waterlodge Hotel, Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.422989,52.432869,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Jutphaas</name>
+		<address>Jutphaas A2, Nieuwegein, NLD</address>
+		<description>4&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.068278,52.017667,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Portland</name>
+		<address>Portland A15, Rhoon, NLD</address>
+		<description>0&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>4.459778,51.862667,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>De Watering</name>
+		<address>De Watering A8, Oostzaan, NLD</address>
+		<description>3&amp;times; CCS 175 kW2&amp;times; CCS 50 kW4&amp;times; CHAdeMO 50 kW2&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>4.854528,52.44225,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Coosenhoek</name>
+		<address>Coosenhoek N57, Vierpolders, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>4.180453,51.870622,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Tussenhoek</name>
+		<address>Tussenhoek N57, Vierpolders, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet, Height 4,00 m; max weight 7,5 t</description>
+		<Point>
+			<coordinates>4.182208,51.870122,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>De Vonken</name>
+		<address>De Vonken A7, Terwispel, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>6.021052,53.032504,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Meedenertol</name>
+		<address>Meedenertol A7, Scheemda, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>6.933594,53.180919,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Roode Til</name>
+		<address>Roode Til A7, Scheemda, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>6.931657,53.182656,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Den Hoek</name>
+		<address>Den Hoek A16, Zevenbergschen Hoek, NLD</address>
+		<description>2&amp;times; CCS 175 kW1&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>4.678008,51.662581,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Hoge Kwel</name>
+		<address>Hoge Kwel A7, Wieringerwerf, NLD</address>
+		<description>2&amp;times; CCS 175 kW1&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kW, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.021431,52.857402,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Limburg Süd</name>
+		<address>Brüsseler Strasse 14, Limburg an der Lahn, DEU</address>
+		<description>4&amp;times; CCS 300 kW1&amp;times; CCS 50 kW3&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kW, Facilities: McDonalds, Subway, KFC, Restaurant, Bank/ATM, Hairdresser, Toilet, Height 4,00 m; max weight 7,5 t</description>
+		<Point>
+			<coordinates>8.092996,50.379914,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Wellerzand</name>
+		<address>Wellerzand A6, Bant, NLD</address>
+		<description>2&amp;times; CCS 175 kW1&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kW, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.759275,52.78436,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Lemsterhop</name>
+		<address>Lemsterhop A6, Rutten, NLD</address>
+		<description>2&amp;times; CCS 175 kW1&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kW, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.74235,52.818501,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Paderborn-Mönkeloh </name>
+		<address>Borchener Strasse 322, Paderborn, DEU</address>
+		<description></description>
+		<Point>
+			<coordinates>8.72185,51.6836,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>De Walden</name>
+		<address>De Walden A7, Terwispel, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>6.020644,53.029339,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Plech</name>
+		<address>Gewerbepark Schönthal 1, Plech, DEU</address>
+		<description>2&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kW, Facilities: McDonalds, Toilet, Supermarket, Bank/ATM, Weidenkirche</description>
+		<Point>
+			<coordinates>11.47072,49.66416,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Uffenheim-Langensteinach</name>
+		<address>Am Buchholz, Uffenheim, DEU</address>
+		<description>2&amp;times; CCS 175 kW0&amp;times; CCS 50 kW0&amp;times; CHAdeMO 50 kW0&amp;times; AC 38 kW, Facilities: Kiosk</description>
+		<Point>
+			<coordinates>10.19602,49.50991,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Fustweg</name>
+		<address>Fustweg, Haarlem, NLD</address>
+		<description></description>
+		<Point>
+			<coordinates>4.661728,52.385164,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Hildesheim</name>
+		<address>Albert-Einstein-Strasse 2, Hildesheim, DEU</address>
+		<description>2&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kW, Facilities: McDonalds, Toilet</description>
+		<Point>
+			<coordinates>9.99676,52.16083,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Schmidgaden</name>
+		<address>Gewerbegebiet Trisching , Schmidgaden, DEU</address>
+		<description>2&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kW, Facilities: Kiosk</description>
+		<Point>
+			<coordinates>12.05377,49.43816,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Nersingen</name>
+		<address>An der Leibi 1, Nersingen, DEU</address>
+		<description>2&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kW, Facilities: Burger King, Toilet</description>
+		<Point>
+			<coordinates>10.09919,48.41572,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Jan Heijnsstraat (AH)</name>
+		<address>Jan Heijnsstraat 10, Tilburg, NLD</address>
+		<description>2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2x Tesla CHAdeMO adapter</description>
+		<Point>
+			<coordinates>5.075246,51.562321,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Herbolzheim</name>
+		<address>Breisgauallee 4, Herbolzheim, DEU</address>
+		<description></description>
+		<Point>
+			<coordinates>7.755112,48.226972,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Sint Jacobslaan (AH) </name>
+		<address>Sint Jacobslaan 61, Nijmegen, NLD</address>
+		<description>1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW2x Tesla CHAdeMO adapter</description>
+		<Point>
+			<coordinates>5.852161,51.820318,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Gladbeck-Ellinghorst</name>
+		<address>Bohmertstrasse 333, Gladbeck, DEU</address>
+		<description>1&amp;times; CCS 175 kW0&amp;times; CCS 50 kW0&amp;times; CHAdeMO 50 kW0&amp;times; AC 38 kW, Facilities: Van der Valk Hotel, toilet</description>
+		<Point>
+			<coordinates>6.969524,51.55522,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Melle-West</name>
+		<address>Wellingholzhausener Strasse 7, Melle, DEU</address>
+		<description>0&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kW, Facilities: Van der Valk Hotel, Toilet</description>
+		<Point>
+			<coordinates>8.31641,52.19466,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Pilsting</name>
+		<address>Hietzinger Wiesen, Pilsting, DEU</address>
+		<description>1&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kW, Facilities: Restaurant, Burger King, Toilet</description>
+		<Point>
+			<coordinates>12.67326,48.692071,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Oudenhorst</name>
+		<address>Oudenhorst A12, Woudenberg, NLD</address>
+		<description>2&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: La Place, Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.464007,52.051171,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Hoezaar</name>
+		<address>Hoezaar A58, Rucphen, NLD</address>
+		<description>2&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>4.529072,51.54884,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>West Wear Street</name>
+		<address>West Wear Street, Sunderland, GBR</address>
+		<description>2&amp;times; CCS 175 kW2&amp;times; CCS 50 kW4&amp;times; CHAdeMO 50 kW2&amp;times; AC 38 kWTesla CHAdeMO adapter, Height 4,00 m; max weight 7,5 t</description>
+		<Point>
+			<coordinates>-1.37745,54.90924,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Mastpolder</name>
+		<address>Masterpolder A58, Rucphen, NLD</address>
+		<description>1&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>4.530389,51.547724,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Prinses Máximaplein</name>
+		<address>Prinses Máximaplein, Den Haag, NLD</address>
+		<description>2&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter</description>
+		<Point>
+			<coordinates>4.391199,52.055171,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Sandelingen-Oost</name>
+		<address>Sandelingen-Oost A16, Hendrik-Ido-Ambacht, NLD</address>
+		<description>2&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: La Place, McDonald's,Tankshop, Toilet, Height 4,00 m; max weight 7,5 t, Temporarily closed because of highway maintenance:July 15th, 21.00h - July 16th, 05.00h</description>
+		<Point>
+			<coordinates>4.620995,51.834753,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Freiwalde</name>
+		<address>Van der Valk Allee 2, Bersteland, DEU</address>
+		<description>1&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kW, Facilities: Van der Valk Hotel, toilet</description>
+		<Point>
+			<coordinates>13.78772,51.94897,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Vrijenban</name>
+		<address>Vrijenban A13, Delft, NLD</address>
+		<description>3&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Burger King, Délifrance, Restaurant, Tankshop, Toilet</description>
+		<Point>
+			<coordinates>4.392855,51.983412,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Hazeldonk-Oost</name>
+		<address>Hazeldonk-Oost A16, Breda, NLD</address>
+		<description>3&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: La Place, McDonald's, Restaurants, Starbucks,Tankshop, Toilet, Height 4,00 m; max weight 7,5 t</description>
+		<Point>
+			<coordinates>4.743228,51.497862,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Hazeldonk-West</name>
+		<address>Hazeldonk-West A16, Breda, NLD</address>
+		<description>2&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: La Place, McDonald's, Restaurants, Starbucks,Tankshop, Toilet</description>
+		<Point>
+			<coordinates>4.740994,51.500096,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Molenkamp</name>
+		<address>Molenkamp A15, Gellicum, NLD</address>
+		<description>1&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.190689,51.847553,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Eigenblok</name>
+		<address>Eigenblok A15, Gellicum, NLD</address>
+		<description>1&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.191405,51.849062,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>GelreDome</name>
+		<address>Batavierenweg 29, Arnhem, NLD</address>
+		<description>2&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: McDonald's, Toilet</description>
+		<Point>
+			<coordinates>5.892364,51.96467,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>De Knoest</name>
+		<address>De Knoest A27, Nieuwegein, NLD</address>
+		<description>0&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Burger King, La Place, Albert Heijn to go, Tankshop, Toilet, Height 4,00 m; max weight 7,5 t</description>
+		<Point>
+			<coordinates>5.122142,52.014226,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Honswijck</name>
+		<address>Honswijck A1, Muiden, NLD</address>
+		<description>3&amp;times; CCS 175 kW2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 38 kW, Facilities: Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.077844,52.320129,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Den Ruygen Hoek-Oost</name>
+		<address>Den Ruygen Hoek-Oost A4, Rijsenhout, NLD</address>
+		<description>2&amp;times; CCS 175 kW3&amp;times; CCS 50 kW3&amp;times; CHAdeMO 50 kW2&amp;times; AC 38 kWTesla CHAdeMO adapter, Facilities: Délifrance, Resto Truck, Burger King, La Place, Van der Valk, Suit Supply, Jack's Casino, FEBO, KFC, Tankshop, Toilet</description>
+		<Point>
+			<coordinates>4.686117,52.258294,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Beatrixkwartier</name>
+		<address>J.P. Coenstraat, Den Haag, NLD</address>
+		<description>J.P. Coenstraat 2, 2&amp;times; CCS 50 kW2&amp;times; CHAdeMO 50 kW2&amp;times; AC 43 kWTesla CHAdeMO adapter</description>
+		<Point>
+			<coordinates>4.334347,52.079624,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Wittenburg</name>
+		<address>Zur Winterwelt 1, Wittenburg, DEU</address>
+		<description>1&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kW, Facilities: Van der Valk Hotel, Restaurant, Toilet</description>
+		<Point>
+			<coordinates>11.096898,53.507648,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Giengen-Herbrechtingen </name>
+		<address>Am Bühlfeld 3, Giengen an der Brenz, DEU</address>
+		<description>2&amp;times; CCS 175 kW0&amp;times; CCS 50 kW0&amp;times; CHAdeMO 50 kW0&amp;times; AC 38 kW, Facilities: McDonald's</description>
+		<Point>
+			<coordinates>10.205526,48.615702,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Wittstock</name>
+		<address>Hamburgerstrasse 1, Wittstock/Dosse, DEU</address>
+		<description>2&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW1&amp;times; AC 38 kW, Facilities: McDonald's</description>
+		<Point>
+			<coordinates>12.451107,53.157407,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>De Hackelaar</name>
+		<address>De Hackelaar A1, Muiden, NLD</address>
+		<description>2&amp;times; CCS 300 kW2&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW, Facilities: McDonald's, Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.084425,52.322064,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Ravensewetering</name>
+		<address>Ravensewetering, Nieuwegein, NLD</address>
+		<description>2&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW, Facilities: Subway</description>
+		<Point>
+			<coordinates>5.122276,52.049847,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Hendriksbos</name>
+		<address>Hendriksbos A28, Nunspeet, NLD</address>
+		<description>1&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW, Facilities: Hajé Restaurant, Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.76797,52.363044,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Willemsbos</name>
+		<address>Willemsbos A28, Nunspeet, NLD</address>
+		<description>2&amp;times; CCS 175 kW1&amp;times; CCS 50 kW1&amp;times; CHAdeMO 50 kW, Facilities: Hajé Restaurant, Tankshop, Toilet</description>
+		<Point>
+			<coordinates>5.766818,52.360573,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Limburglaan (AH)</name>
+		<address>Limburglaan 2, Eindhoven, NLD</address>
+		<description>6&amp;times; CCS 50 kW6&amp;times; CHAdeMO 50 kW, Facilities: Albert Heijn XL, Gall &amp;amp; Gall</description>
+		<Point>
+			<coordinates>5.450633,51.434176,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Tafelbergweg</name>
+		<address>Tafelbergweg 4, Amsterdam, NLD</address>
+		<description>4&amp;times; CCS 300 kW1&amp;times; CHAdeMO 50 kW, Facilities: Burger King, KFC, Restaurants,  </description>
+		<Point>
+			<coordinates>4.945501,52.292076,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Rangsdorf</name>
+		<address>Eschenweg 18, Blankenfelde-Mahlow, DEU</address>
+		<description>4&amp;times; CCS 150 kW1&amp;times; CHAdeMO 50 kW, Facilities: Van der Valk Hotel, toilet</description>
+		<Point>
+			<coordinates>13.443635,52.309207,0</coordinates>
+		</Point>
+	</Placemark>
+
+</Document>
+</kml>
